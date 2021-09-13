@@ -17,3 +17,8 @@ as respostas do mesmo arquivo JSON. Ao final do quiz se mostra a porcentagem de 
 
 Esse algoritmo foi ensinado em um workshop da empresa b7web, eu o implementei para fins didáticos e para desenvolvimento 
 do meu portfólio pessoal.
+
+Ficario feliz com feedbacks:
+
+E-mail: raphaeldesousalm@gmail.com
+Linkdin: https://www.linkedin.com/in/raphaellima98/
